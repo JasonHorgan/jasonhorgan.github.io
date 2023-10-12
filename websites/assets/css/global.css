@@ -21,7 +21,7 @@ input, button, textarea, select { font: inherit }
  @media (max-width: 767px) {
     body { padding: 8% 5% }
  }
-body 
+
 body {
     text-align: center;
     font-family: sans-serif;
