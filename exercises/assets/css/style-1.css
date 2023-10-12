@@ -19,7 +19,7 @@ input, button, textarea, select { font: inherit }
  @media (max-width: 767px) {
     body { padding: 8% 5% }
  }
-body { padding: 4% 20% }
+body 
 h1 {
     font-size: 84px;
     text-align: center;
@@ -40,4 +40,7 @@ h3 {
 
 p {
     font-size: 18px;
+    font-family: sans-serif;
+    line-height: 1.6;
+    margin-bottom: 20px;
 }
