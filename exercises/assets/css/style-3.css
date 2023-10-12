@@ -37,14 +37,14 @@ a { color: blue; }
 
 .section-2{background: lightgreen;}
 
-.section-3{backround: lightblue}
+.section-3{background: lightblue}
 
-.section-4{backround: darkblue}
+.section-4{background: darkblue}
 
 .section-4 h2,
 .section-4 p {
     color:#fff
 }
 
-.section-5{backround: lightcoral}
+.section-5{background: lightcoral}
 
