@@ -10,6 +10,11 @@ body { line-height: 1.5; min-height: 100vh }
 img { width: 100%; height: auto; display: block }
 input, button, textarea, select { font: inherit }
 /* ====== PADDING AROUND WEB PAGE BODY CONTENT ======  */
+
+body { background-color: antiquewhite; }
+
+
+
 /* Desktops */
 @media (min-width: 768px) {
     body { padding: 4% 20% }
@@ -19,8 +24,10 @@ input, button, textarea, select { font: inherit }
  @media (max-width: 767px) {
     body { padding: 8% 5% }
  }
-body 
+
+
 h1 {
+    color: brown;
     font-size: 84px;
     text-align: center;
 font-weight: normal;
@@ -29,11 +36,13 @@ margin-bottom: 32px;
 }
 
 h2 {
+    color: brown;
     font-size: 36px;
     margin-bottom: 4px;
 }
 
 h3 {
+    color: brown;
     font-size: 24px;
     margin-bottom: 4px;
 }
@@ -44,3 +53,5 @@ p {
     line-height: 1.6;
     margin-bottom: 20px;
 }
+
+a { color: brown; }

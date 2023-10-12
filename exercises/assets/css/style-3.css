@@ -10,8 +10,12 @@ body { line-height: 1.5; min-height: 100vh }
 img { width: 100%; height: auto; display: block }
 input, button, textarea, select { font: inherit }
 /* ====== PADDING AROUND WEB PAGE BODY CONTENT ======  */
+
+body { background-color: lightblue; }
+
 body { padding: 4% 20% }
 h2 {
+    color: blue;
     font-size: 56px;
     margin-bottom: 4px;
 }
@@ -25,3 +29,24 @@ p {
     font-size: 24px;
     margin-bottom: 16px
 }
+
+a { color: blue; }
+
+
+.section-1{
+    background-color: lemonchiffon;
+}
+
+.section-2{background: lightgreen;}
+
+.section-3{backround: lightblue}
+
+.section-4{backround: darkblue}
+
+.section-4 h2,
+.section-4 p {
+    color:#fff
+}
+
+.section-5{backround: lightcoral}
+
