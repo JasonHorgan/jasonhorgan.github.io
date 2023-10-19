@@ -13,7 +13,7 @@ input, button, textarea, select { font: inherit }
 
 /* ====== PADDING AROUND WEB PAGE BODY CONTENT ======  */
 
-body { background-color: lightgreen; }
+body { background-color: palevioletred; }
 
 /* Desktops */
 @media (min-width: 768px) {
@@ -58,7 +58,10 @@ p {
     margin-bottom: 16px;
 }
 
-a { color: darkgreen; }
+a { color: purple }
 
-
+img{
+    margin-bottom: 32px;
+    border-radius: 15px;
+}
 
